@@ -2,7 +2,7 @@
 
 A warm, playful one-page portfolio for an aspiring AI engineer. It tells the story behind each project (brief, idea, role and outcome) instead of just showing a gallery, and it's built to be understood in 30 seconds.
 
-**Live site:** [your-project.vercel.app]
+**Live site:** https://portfolio-alpha-dun-ogps3lj6wv.vercel.app/
 
 > Status: under construction. Some details are still placeholders.
 
